@@ -6,12 +6,12 @@
 
 * 💻 I'm a full stack web developer
 * 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
+* 📱 I make apps for Android
 
 
 
 
 ## 👨‍💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=spring,laravel,mysql,mongodb,notion,php,postman,postgres,react,java,js,go,html,css,python,bootstrap,idea,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,laravel,mysql,mongodb,notion,php,postman,postgres,flutter,react,java,js,go,html,css,python,bootstrap,idea,jquery)](https://skillicons.dev)
 
 

@@ -1,4 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h3 align="center">Hey there, I'm <a href="https://github.com/gera39">Jerry</a> - Developer FullStack(student)<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3>
 
@@ -13,7 +12,7 @@
 
 
 ## 👨‍💻 Languages and Tools:
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <table>
     <tbody>
         <tr>

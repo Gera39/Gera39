@@ -12,6 +12,6 @@
 
 
 ## 👨‍💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=spring,laravel,mysql,mongodb,php,postman,postgres,react,java,js,astro,html,css,python,bootstrap,jquery,yii)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,laravel,mysql,mongodb,php,postman,postgres,react,java,js,astro,html,css,python,bootstrap,jquery,tailwindcss)](https://skillicons.dev)
 
 

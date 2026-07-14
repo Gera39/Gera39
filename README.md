@@ -15,6 +15,6 @@
 ## Backend:
 [![My Skills](https://skillicons.dev/icons?i=spring,laravel,mysql,mongodb,php,postgres,java,python,jquery)](https://skillicons.dev)
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,java,js,astro,ts,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,astro,ts,tailwindcss)](https://skillicons.dev)
 
 

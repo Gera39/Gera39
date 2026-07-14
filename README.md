@@ -13,8 +13,8 @@
 
 ## 👨‍💻 Languages and Tools:
 ## Backend:
-[![My Skills](https://skillicons.dev/icons?i=spring,laravel,mysql,mongodb,php,postgres,java,python,jquery)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,java,laravel,php,mysql,mongodb,postgres,python)](https://skillicons.dev)
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,js,astro,ts,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,astro,ts,jquery,tailwindcss)](https://skillicons.dev)
 
 

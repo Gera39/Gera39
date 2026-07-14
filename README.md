@@ -3,12 +3,9 @@
 
 
 ## 📖 About me
+¡Hola! Soy un desarrollador apasionado que vive y respira la tecnología y la programación. Me considero muy proactivo y autodidacta, siempre buscando nuevos retos que resolver y habilidades que dominar.
 
-* 💻 I'm a full stack web developer
-* 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android
-
-
+Hi there! 👋 I'm a passionate developer who lives and breathes technology and programming. I consider myself highly proactive and self-taught, always looking for new challenges to solve and skills to master.
 
 
 ## 👨‍💻 Languages and Tools:
